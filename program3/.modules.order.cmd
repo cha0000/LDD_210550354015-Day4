@@ -1,0 +1,1 @@
+cmd_/home/chakri/device-Drivers/Day/program3/modules.order := {   echo /home/chakri/device-Drivers/Day/program3/dynamic.ko; :; } | awk '!x[$$0]++' - > /home/chakri/device-Drivers/Day/program3/modules.order

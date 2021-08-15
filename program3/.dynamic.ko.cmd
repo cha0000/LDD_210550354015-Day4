@@ -1,0 +1,1 @@
+cmd_/home/chakri/device-Drivers/Day/program3/dynamic.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/chakri/device-Drivers/Day/program3/dynamic.ko /home/chakri/device-Drivers/Day/program3/dynamic.o /home/chakri/device-Drivers/Day/program3/dynamic.mod.o;  true

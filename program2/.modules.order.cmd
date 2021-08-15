@@ -1,0 +1,1 @@
+cmd_/home/chakri/device-Drivers/Day/program2/modules.order := {   echo /home/chakri/device-Drivers/Day/program2/CharDriver.ko; :; } | awk '!x[$$0]++' - > /home/chakri/device-Drivers/Day/program2/modules.order
